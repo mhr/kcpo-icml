@@ -1,6 +1,6 @@
 # README
 
-Code for Koopman Constrained Policy Optimization as presented at ICML 2023. Our paper is available https://differentiable.xyz/papers/paper_45.pdf.
+Code for Koopman Constrained Policy Optimization as presented at ICML 2023. Our paper is available at https://differentiable.xyz/papers/paper_45.pdf.
 
 ## Installation
 Try to run the Python scripts below and install things whenever things break.
